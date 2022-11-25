@@ -1,0 +1,7 @@
+{
+  "token": "Input Yo Token", 
+  "prefix": "Enter Prefix",
+  "everyoneMention": false,
+  "hereMention": false,
+  "hostedBy": true
+}
